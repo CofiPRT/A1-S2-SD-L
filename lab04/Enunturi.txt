@@ -1,0 +1,17 @@
+Problema 1
+Sa se scrie o functie care primeste ca parametru o lista si o celula. Functia insereaza ordonat celula in lista data 
+(se insereaza ordonat crescator dupa nume si crescator dupa prenume in caz de egalitate a numelui). 
+
+Problema 2
+Sa se scrie o functie care primeste ca parametru o lista simplu inlantuita si construieste o noua lista prin mutarea elementelor 
+pentru care notaSD >= 5 si notaPC < 5.
+Lista rezultat se va construi ordonata descrescator dupa notaSD. 
+Prin efect lateral se vor intoarce numarul de elemente mutate din lista initiala si numarul de elemente ramase in lista initiala.
+
+Bonus
+Sa se determine a k-a celula de la finalul unei liste simplu inlantuite printr-o singura parcurgere.
+Obs: Intotdeauna vor exista minim k celule in lista.
+Exemplu:
+celula1->celula2->celula3->celula4->celula5
+k = 2 => se va returna celula4
+
